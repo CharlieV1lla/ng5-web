@@ -1,3 +1,10 @@
+## Project Overview  
+
+This project is a demonstration of a web application built using Angular as a structured frontend system that showcases modern web-development practices.  
+The ng5-web project illustrates a modular, component-driven frontend architecture.
+
+---
+
 # Ng5
 # develop
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.6.
